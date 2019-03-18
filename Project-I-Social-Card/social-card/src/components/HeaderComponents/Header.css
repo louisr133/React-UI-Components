@@ -1,1 +1,20 @@
 /* All styles for your header Components live here */
+
+h1 {
+    font-size: 12px;
+}
+.hContainer {
+    display: flex;
+}
+
+span {
+    color: rgba(155,155,155,.5);
+}
+
+.hImage{
+    height: 50px;
+    width: 50px;
+}
+.hTitleText {
+    margin-left: 20px;
+}

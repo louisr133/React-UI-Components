@@ -1,1 +1,47 @@
 /* All styles for your Card Components live here */
+
+#root {
+    width: 600px;
+    margin: auto;
+
+}
+.appContainer {
+    width: 100%;
+    max-width: 600px;
+}
+
+.cdContainer {
+    display: flex;
+}
+
+.cdBanner {
+    background-image: url(https://tk-assets.lambdaschool.com/fcd75197-7d12-46ec-bc9e-4130f34822fa_reactbackground.png);
+    width: 85%;
+    height: 250px;
+    background-position: center;
+    background-size: 150%;
+    margin-left: 70px;
+    margin-top: 5px;
+    border-radius: 5px 5px 0 0;
+}
+
+.cdContentContainer {
+    margin-left: 70px;
+    border: 1px solid lightgray;
+    border-radius: 0 0 5px 5px;
+    margin-right: 20px;
+}
+
+.cdContainer a {
+    text-decoration: none;
+    color: black;
+}
+
+.cdContentContainer {
+    font-size: 14px;
+    padding-left: 15px;
+}
+
+.reactLink {
+    color: grey;
+}

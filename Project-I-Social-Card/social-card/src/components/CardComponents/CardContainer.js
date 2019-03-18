@@ -6,12 +6,14 @@ import CardContent from './CardContent';
 
 function CardContainer() {
 
+    return (
         <div className = "cdContainer"> 
             <a href = 'https://reactjs.org'>
                 <CardBanner />
                 <CardContent />
             </a>
         </div>
+    )
 
 } 
 
