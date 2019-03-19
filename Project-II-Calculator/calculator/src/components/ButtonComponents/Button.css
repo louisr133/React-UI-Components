@@ -1,0 +1,30 @@
+.number {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 375px;
+
+}
+.buttons {
+    width: 125px;
+    height: 125px;
+    margin: 0px;
+    background: rgb(255, 255, 255);
+    /* border: 2px solid black; */
+}
+
+.zero {
+   width: 100%;
+}
+
+.actions{
+    display: flex;
+    flex-direction: column;
+}
+
+.Abuttons {
+    width: 100px;
+    height: 100px;
+    background: rgb(240, 172, 69);
+    /* border: 2px solid black; */
+}

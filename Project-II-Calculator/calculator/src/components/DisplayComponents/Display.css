@@ -1,0 +1,16 @@
+.calc-display { 
+    background: black;
+    width: 475px;
+    height: 100px;
+}
+
+.hh {
+    color: white;
+    position: relative;
+    left: 430px;
+    top: 40px;
+}
+
+h2 {
+    font-size: 3.0em;
+}
